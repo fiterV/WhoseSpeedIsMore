@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\bin\Debug\Whose_speed_is_more.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\bin\Debug\Whose_speed_is_more.exe
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\bin\Debug\Whose_speed_is_more.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\obj\Debug\Whose_speed_is_more.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\obj\Debug\Whose_speed_is_more.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\obj\Debug\Whose_speed_is_more.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\obj\Debug\Whose_speed_is_more.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\obj\Debug\Whose_speed_is_more.exe
+c:\users\admin\documents\visual studio 2013\Projects\Whose_speed_is_more\Whose_speed_is_more\obj\Debug\Whose_speed_is_more.pdb
