@@ -4,6 +4,11 @@
 ## Overview
 Game for **2 people** for testing reaction speed.
 
+## How to run
+```
+Whose_speed_is_more/bin/Debug/Whose_speed_is_more.exe
+```
+
 ## How to play
 1. Click 'Try to win'.
 2. After countdown(**5 sec**) ends up, and you **see some color** , press the button:
@@ -12,4 +17,4 @@ Game for **2 people** for testing reaction speed.
 
 **Space** resets countdown.
 ## Screenshots
-<img src="images/test.gif"/>
+![screenshots](images/test.gif1)
