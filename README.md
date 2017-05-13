@@ -1,5 +1,6 @@
 # Whose speed is more
-<img src="images/vs.png" width="20%"/>
+
+[![Build Status](https://api.travis-ci.org/fiterV/WhoseSpeedIsMore.svg?branch=master)](https://travis-ci.org/fiterV/WhoseSpeedIsMore) <img src="images/vs.png" width="20%"/>
 
 ## Overview
 Game for **2 people** for testing reaction speed.
@@ -17,4 +18,4 @@ Whose_speed_is_more/bin/Debug/Whose_speed_is_more.exe
 
 **Space** resets countdown.
 ## Screenshots
-![screenshots](images/test.gif1)
+![screenshots](images/test.gif)
