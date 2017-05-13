@@ -1,4 +1,2 @@
 language: csharp
 solution: Whose_speed_is_more.sln
-mono: none
-dotnet: 4.5
